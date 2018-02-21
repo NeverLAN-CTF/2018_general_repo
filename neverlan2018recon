@@ -1,4 +1,4 @@
-Question 1:
+Question 1:Can you Name it? 50pts
 This system provides a reference-method for publicly known information-security vulnerabilities and exposures.
 
 Hint 1. Operated by the Mitre Corporation.
@@ -6,7 +6,7 @@ Hint 1. Operated by the Mitre Corporation.
 flag{common_vulnerabilities_and_exposures}
 
 
-Question 2: 
+Question 2:Can you find it? 100pts
 This Vulnerability was used for a major worldwide Ransomware attack. It was so bad it forced the software company to write a patch for end of life systems that they had stopped supporting years before the attack.
 Flag will be the formal listing code
 
@@ -17,14 +17,14 @@ hint: The fact you took this hint kinda makes me WannaCry!
 
 flag{CVE-2017-0144}
 
-Extra 10 points for the nick name of the vulnerability
+Extra 50 points for the nick name of the vulnerability
 
 flag{EternalBlue}
 
 
 
-Question 3:
-For every Vulnerability there is an exploit. Name the place that is is a non-profit project that is provided as a public service
+Question 3: What is it? 100pts
+For every Vulnerability there is an exploit. Name the thing that is a non-profit project that is provided as a public service
 
 Hint 1: Where would one go to find the proof of a vulnerability 
 Hint 2: It is operated by Offensive Security
@@ -32,7 +32,7 @@ Hint 2: It is operated by Offensive Security
 flag{Exploit_Database}
 
 
-Question 4:
+Question 4: Can you search it? 100pts
 For the Vulnerability you found in question 2, There is a proof of concept. What is the string for TARGET_HAL_HEAP_ADDR_x64?
 
 Hint:start reading line by line.
@@ -40,7 +40,7 @@ Hint:start reading line by line.
 flag{0xffffffffffd00010}
 
 
-Question 5:
+Question 5:Can you use it?   200pts
 Now that you found the vulnerability and the proof of concept. find the tool to automate this exploit. When you find the tool what is the first command to "use" the exploit?
 
 hint1: Tool is made by rapid7
