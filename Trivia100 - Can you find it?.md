@@ -16,3 +16,8 @@ hint: The fact you took this hint kinda makes me WannaCry!
 
 # Flag
 flag{CVE-2017-0144}
+
+# Bonus
+Extra 50 points for the nick name of the vulnerability
+
+flag{EternalBlue}
