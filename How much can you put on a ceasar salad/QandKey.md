@@ -1,6 +1,7 @@
 # Name 
-How much can you throw on a ceasar salad?
+How much can you throw on a caesar salad?
 
+# Value
 
 
 
@@ -41,7 +42,7 @@ Binary to ascii
 
 
 Lewlyplujl pz aol Alhjoly vm hss aopunz
-Cesar cipher shift = 7
+Caesar cipher shift = 7
 Experience is the teacher of all things
 
 ### This is a quote by Julius Ceasar his name in latin is
